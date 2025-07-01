@@ -77,7 +77,7 @@ Here's a breakdown of agentic frameworks from the sources:
 
 • **Current State of Integration**: While Crew AI had "very poor support for MCP" or "almost zero integration" at the time of the discussion, the overall trend is towards agentic frameworks becoming MCP compliant. Developers are encouraged to use the V2 version of `fastmcp` (an open-source project adopted by MCP) to create MCP tools and servers, which simplifies the process significantly
 
-# ## MCP (Model Context Protocol)
+#  MCP (Model Context Protocol)
 
 **The Model Context Protocol (MCP)** is a **minimum viable framework or protocol developed by Anthropic to standardize how agents interact with tools**. It aims to solve the "Tower of Babel problem" that arose from the "whole proliferation of agentic frameworks", each with its own "heavyweight opinionated frameworks" for tools.
 
