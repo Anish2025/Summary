@@ -117,10 +117,14 @@ These topics signal a **shift from static LLM apps** to **interactive, intellige
 
 ---
 
-##  Final Thoughts
+## Key Takeaways 
 
-This bootcamp session was intentionally non-traditional. Instead of passive lectures, students were asked to **build something real** using what they’ve learned.
-
-They explored cutting-edge capabilities, dealt with open-ended problems, and developed team-based solutions. This approach mirrors how AI systems are deployed in the industry: fast, iterative, and multi-disciplinary.
-
-By the end, participants were not just consumers of AI but **creators of future-ready agents**—voice-native, multilingual, responsive, and intelligent.
+1. **Hands-On Project**: Built a complete agent system from voice input to podcast output using LLMs and TTS/STT tools.
+    
+2. **Multi-Turn Voice Agents**: Emphasis on context-aware, conversational agents that support natural dialogue and tone recognition.
+    
+3. **Multilingual Support**: Bonus challenge included native language input/output and translation using models like Meta’s “No Language Left Behind.”
+    
+4. **Real-World Tools & Ethics**: Discussions on paid APIs vs scraping, GPU shortages, and the ethical implications of voice cloning.
+    
+5. **Future Direction**: Focus shifting toward LangGraph orchestration, reinforcement learning for reasoning agents (inspired by R1 paper), and real-world robotics.
