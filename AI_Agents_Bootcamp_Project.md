@@ -19,7 +19,7 @@ The aim was to integrate all these components in a cohesive agent pipeline, enco
 
 The user begins with **voice input**. This input is first converted from **voice to text** using STT tools. The resulting text serves as a **query** for the agentic system.
 
-![Voice to Output Flow](attachment:file-Q62R5SkQupGxbzLRn1ZkNv)
+![Voice to Output Flow](<Screenshot_1.jpg>)
 
 **Image 1**: High-level input-output system flow
 
@@ -44,7 +44,7 @@ These three parts together form the **end-to-end multi-modal output** of the sys
 
 ##  Things You Need to Implement
 
-![Implementation Checklist](attachment:file-NuGrpcy5xnXbcdMPjcA1ha)
+![Implementation Checklist](<Screenshot_2.jpg>)
 
 **Image 2**: Checklist of tools required for implementation
 
