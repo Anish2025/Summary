@@ -1,7 +1,7 @@
 
-## 🧠 Week 5.1: AI Agents Bootcamp – Exploratory Project Summary
+##  Week 5.1: AI Agents Bootcamp – Exploratory Project Summary
 
-### 🚀 Overview
+###  Overview
 
 In this hands-on session, participants were given a half-day challenge to build a **fully agentic system** that works from voice input to voice output. This project combines multiple AI capabilities:
 - **Speech-to-Text (STT)** and **Text-to-Speech (TTS)**,
@@ -13,9 +13,9 @@ The aim was to integrate all these components in a cohesive agent pipeline, enco
 
 ---
 
-## 🧹 System Architecture Breakdown
+## System Architecture Breakdown
 
-### 🎤 Input
+###  Input
 
 The user begins with **voice input**. This input is first converted from **voice to text** using STT tools. The resulting text serves as a **query** for the agentic system.
 
@@ -30,7 +30,7 @@ The user begins with **voice input**. This input is first converted from **voice
 
 ---
 
-### 📝 Output
+###  Output
 
 Based on the transcribed text (query), the system generates three outputs:
 
@@ -42,13 +42,13 @@ These three parts together form the **end-to-end multi-modal output** of the sys
 
 ---
 
-## 🛠️ Things You Need to Implement
+##  Things You Need to Implement
 
 ![Implementation Checklist](attachment:file-NuGrpcy5xnXbcdMPjcA1ha)
 
 **Image 2**: Checklist of tools required for implementation
 
-### 🧪 Tools Required:
+###  Tools Required:
 
 - **Voice-to-Text Tool**: For handling user input.
 - **Newsletter Generator**: LLM-based generation based on query.
@@ -60,7 +60,7 @@ Participants were advised to implement this system using the **MCP (Model-Contex
 
 ---
 
-## 🌐 Multi-Turn Voice-to-Voice & Cascading Agents
+##  Multi-Turn Voice-to-Voice & Cascading Agents
 
 A key theme in this session was the **rise of multi-turn, cascading, voice-to-voice agents**. These systems handle complete conversations using only voice—allowing users to interrupt, give follow-ups, or change tone mid-dialogue, and still maintain context.
 
@@ -71,7 +71,7 @@ The instructor emphasized that **this is the "new frontier"** in AI systems, esp
 
 ---
 
-## 🌍 Bonus Challenge: Multilingual Capabilities
+##  Bonus Challenge: Multilingual Capabilities
 
 As an optional bonus, students were encouraged to:
 - Allow users to speak in **native languages** (e.g., Tamil, Mandarin, French, Spanish).
@@ -82,16 +82,16 @@ This supports societal goals such as helping non-literate users or enabling seam
 
 ---
 
-## 🧪 Broader Learning & Industry Trends
+##  Broader Learning & Industry Trends
 
-### 💡 Key Insights:
+###  Key Insights:
 
 - **Voice cloning tools** (e.g., Eleven Labs, Chatterbox API) can now replicate someone's voice with just 5 seconds of audio.
 - Voice cloning raises **PII and ethical concerns**, but they are becoming unavoidable as the technology matures.
 - **Paid news APIs** (vs. scraping) are recommended for high-quality input.
 - Discussion around **GPU shortages**, highlighting the gap between demand and chip yield, and how it affects AI scalability.
 
-### 📈 What’s Next:
+###  What’s Next:
 
 - Moving orchestration from **CrewAI to LangGraph** (and later LangFlow).
 - Next bootcamp projects will involve:
@@ -103,7 +103,7 @@ This supports societal goals such as helping non-literate users or enabling seam
 
 ---
 
-## 🌟 Final Thoughts
+##  Final Thoughts
 
 This session embraced **exploratory learning** and creative implementation to build a complete agent system in real-time. Instead of lecturing, the instructor encouraged participants to:
 - Learn by doing,
