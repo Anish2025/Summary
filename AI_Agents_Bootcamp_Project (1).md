@@ -1,7 +1,7 @@
 
-## 🧠 Week 5.1: AI Agents Bootcamp – Exploratory Project Summary
+## Week 5.1: AI Agents Bootcamp – Exploratory Project Summary
 
-### 🚀 Overview
+### Overview
 
 In this hands-on session, participants were given a half-day challenge to build a **fully agentic system** that works from voice input to voice output. This project aimed to bring together a variety of AI capabilities into one seamless experience. The objective was not only to implement the technical pieces but also to explore the broader implications of such systems in real-world settings.
 
@@ -16,13 +16,13 @@ The session prioritized **learning by building**, where teams had full autonomy 
 
 ---
 
-## 🧹 System Architecture Breakdown
+## System Architecture Breakdown
 
-### 🎤 Input
+### Input
 
 The journey begins with the **user’s voice**. The user speaks a natural language query into the system. This voice signal is captured and processed by a **Speech-to-Text** tool, converting it into a clean textual form. That textual query acts as the foundation for the downstream generation tasks.
 
-![Voice to Output Flow](attachment:file-Q62R5SkQupGxbzLRn1ZkNv)
+![Voice to Output Flow](<Screenshot_1.jpg>)
 
 **Image 1**: High-level input-output system flow
 
@@ -30,7 +30,7 @@ This section of the pipeline demonstrates the importance of accurate transcripti
 
 ---
 
-### 📝 Output
+### Output
 
 Once the text query is generated, the system produces three key outputs:
 
@@ -44,13 +44,13 @@ Together, these three elements ensure that users receive not just a text summary
 
 ---
 
-## 🛠️ Things You Need to Implement
+##  Things You Need to Implement
 
-![Implementation Checklist](attachment:file-NuGrpcy5xnXbcdMPjcA1ha)
+![Implementation Checklist](<Screenshot_2.jpg>)
 
 **Image 2**: Checklist of tools required for implementation
 
-### 🧪 Tools Required:
+###  Tools Required:
 
 To construct this system, teams were expected to combine the following technologies:
 
@@ -64,7 +64,7 @@ Implementation had to follow the **MCP (Model-Context-Protocol)** structure and 
 
 ---
 
-## 🌐 Multi-Turn Voice-to-Voice & Cascading Agents
+## Multi-Turn Voice-to-Voice & Cascading Agents
 
 This section covered a major advancement in agent technology: **multi-turn, cascading, voice-to-voice systems**.
 
@@ -82,7 +82,7 @@ This technology is already being used in:
 
 ---
 
-## 🌍 Bonus Challenge: Multilingual Capabilities
+## Bonus Challenge: Multilingual Capabilities
 
 To push boundaries, a **bonus challenge** was introduced:
 - Accept voice input in various **native languages**.
@@ -95,15 +95,15 @@ This promotes global accessibility and increases real-world applicability of age
 
 ---
 
-## 🧪 Broader Learning & Industry Trends
+##  Broader Learning & Industry Trends
 
-### 💡 Key Insights:
+###  Key Insights:
 
 - **Voice Cloning**: Creating a replica of someone’s voice is now possible with just 5 seconds of audio. This raises **PII and ethical** concerns but is also a reality in modern systems.
 - **News API vs Scraping**: Participants were advised to avoid noisy scraping and instead use **paid APIs** for clean, high-quality news content.
 - **GPU Shortages**: Despite high demand, the **manufacturing yield of advanced GPUs** like the 5090 remains low. This affects the scalability of LLM-based solutions.
 
-### 📈 What’s Next:
+###  What’s Next:
 
 - Transition from **CrewAI to LangGraph** for orchestration.
 - Upcoming frameworks:
@@ -117,7 +117,7 @@ These topics signal a **shift from static LLM apps** to **interactive, intellige
 
 ---
 
-## 🌟 Final Thoughts
+##  Final Thoughts
 
 This bootcamp session was intentionally non-traditional. Instead of passive lectures, students were asked to **build something real** using what they’ve learned.
 
